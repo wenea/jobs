@@ -14,4 +14,4 @@ You can send them to us by using our contact email. Don't forget to also include
 interested in or if you are proactively applying.
 
 ## Contact 
-:email: TODO
+:email: talento@diggia.com
