@@ -1,4 +1,4 @@
-# QA Engineer at Wenea
+# DATA Engineer at Wenea
 
 ## The company
 
@@ -77,9 +77,6 @@ professional trajectory.
 - Demonstrable experience in the data sector. Let it be building ETL pipelines, data models, data warehouse 
 architectures or machine learning models.
 
-- A bachelor's degree in Computer Science, Engineering,
-   Mathematics or related field.
-
 - Knowledge of data processing frameworks and tools. (Spark, Apache Airflow, Kafka, ELK stack, Pandas and similar 
 tools)
 
@@ -98,9 +95,6 @@ tools)
    Scrum.
 
 ## Desirable
-
-- Master's degree or PhD in Computer Science, Engineering,
-   Mathematics or related field.
 
 - Knowledge about Azure, Amazon Web Services and cloud computing.
 
