@@ -83,9 +83,6 @@ professional trajectory.
 
 - Three years of experience in the testing world.
 
-- A bachelor's degree in Computer Science, Engineering,
-   Mathematics or related field.
-
 - Knowledge of testing frameworks and tools. (Robot Framework,
    Behave, Selenium, Cucumber, Appium, Postman or similar tools)
 
@@ -103,9 +100,6 @@ professional trajectory.
    Scrum.
 
 ## Desirable
-
-- Master's degree or PhD in Computer Science, Engineering,
-   Mathematics or related field.
 
 - How-to in the creation and automation of testing reports.
 
