@@ -47,12 +47,13 @@ We also offer **health insurance**, **flexible remuneration** and a **career pla
 
 - Be familiar with agile methodologies.
 - Experience developing unit test with Karma and Jasmine.
-- Knowledge in Capacitor and migrations between Cordova to Capacitor.
+- Knowledge in Capacitor.
 - TeamWork.
 - Skills to develop custom components in angular.
 - Knowledge in Google Analytics.
 - Have worked with firebase for webapps.
 - Be familiar with other frontend frameworks.
+- Knowledge in Flutter.
 
 ## How to apply
 
