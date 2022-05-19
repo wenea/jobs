@@ -38,7 +38,7 @@ We also offer **health insurance**, **flexible remuneration** and a **career pla
 
 - Proactively communicating with colleagues to refine application design and performance.
 - Have plenty of experience building single-page applications using Angular.
-- A strong undestanding of TypeScript and ES6 standards.
+- A strong understanding of TypeScript and ES6 standards.
 - Have strong knowledge of HTML, CSS, and preprocessors like SASS.
 - Mínimum 2 years of experience developing with best practices.
 - Experience developing and maintaining software.
