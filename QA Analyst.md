@@ -58,37 +58,52 @@ professional trajectory.
 
 ## What will you do
 
-•	Design, implement and execute Test Suites that are understandable to the different involved parties.
-•	Research, plan and adapt Testing Frameworks.
-•	Automate backend and frontend functional tests for our core and iOS and Android apps.
-•	Actively collaborate with developers to set up and execute tests, ensuring adequate coverage.
-•	Be involved in the writing of User Stories to describe acceptance criteria.
-•	Improve yourself and your abilities day by day.
+- Design, implement and execute Test Suites that are understandable to the different involved parties.
+
+- Research, plan and adapt Testing Frameworks.
+
+- Automate backend and frontend functional tests for our core and iOS and Android apps.
+
+- Actively collaborate with developers to set up and execute tests, ensuring adequate coverage.
+
+- Be involved in the writing of User Stories to describe acceptance criteria.
+
+- Improve yourself and your abilities day by day.
 
 
 ## Requirements
 
-•	A proactive and self-managing professional.
-•	Excellent verbal and written communication skills, and a team-oriented mindset
-•	Three years of experience in the testing world, at least one year of experience in mobile testing.
-•	Applicable experience in test strategy and test plan design 
-•	Applicable experience in testing frameworks and automating tools. (Robot Framework, Behave, Selenium, Cucumber, Appium, Postman, Karate, BrowserStack, LambdaTest. SauceLabs or similar tools)
-•	Applicable experience in bash and python scripting.
-•	High level understanding on collaborative VCS workflow (Branching, Pull Requests, Gitflow)
-•	Experience with Continuous Integration and Delivery concepts and processes.
-•	Deep understanding of Agile frameworks, in particular with Scrum.
+- A proactive and self-managing professional.
+  
+- Excellent verbal and written communication skills, and a team-oriented mindset
+
+-	Three years of experience in the testing world, at least one year of experience in mobile testing.
+
+-	Applicable experience in test strategy and test plan design 
+
+-	Applicable experience in testing frameworks and automating tools. (Robot Framework, Behave, Selenium, Cucumber, Appium, Postman, Karate, BrowserStack, LambdaTest. SauceLabs or similar tools)
+
+-	Applicable experience in bash and python scripting.
+
+-	High level understanding on collaborative VCS workflow (Branching, Pull Requests, Gitflow)
+
+-	Experience with Continuous Integration and Delivery concepts and processes.
+
+-	Deep understanding of Agile frameworks, in particular with Scrum.
 
 
 ## Desirable
 
-•	How-to in the creation and automation of testing reports.
-•	Experience with full stack programming.
-•	Experience in reviewing technical debt with SonarCloud.
+-	How-to in the creation and automation of testing reports.
+
+-	Experience with full stack programming.
+
+-	Experience in reviewing technical debt with SonarCloud.
 
 
 ## Top of the top
 
-•	ISTQB certifications
+-	ISTQB certifications
 
 ## How to apply
 
