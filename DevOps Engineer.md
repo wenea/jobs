@@ -70,7 +70,7 @@ professional trajectory.
 
 - Design and administer logging and observability solutions (ELK, Loki).
 
-- Administer relational and NoSQL databases (PostgreSQL and Redis).
+- Manage relational and NoSQL databases (PostgreSQL and Redis).
 
 - Manage data pipelines and data warehouses (PySpark, Apache Airflow).
 
